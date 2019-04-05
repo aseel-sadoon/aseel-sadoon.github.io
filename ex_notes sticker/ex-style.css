@@ -1,0 +1,64 @@
+
+body{
+    padding:20px;
+    margin:0px;
+    background-color:#37474F;
+    font-family: "Reenie Beanie";
+    font-size: 45px;
+    line-height: 0.8;
+    }
+
+    .notes{
+        display: flex;
+        flex-wrap: wrap;
+        list-style-type: none;
+        text-decoration-line: none;
+        }
+        
+    #square1 {
+        padding:40px;
+        margin:30px;
+        width: 240px;
+        height: 240px;
+        background: #e865f1;
+        -webkit-transform: rotate(-5deg);
+        }
+    #square2 {
+            padding:40px;
+            margin:30px;
+            width: 240px;
+            height: 240px;
+            background: #89ff44;
+            -webkit-transform: rotate(3deg); 
+        }
+    #square3 {
+            padding:40px;
+            margin:30px;
+            width: 240px;
+            height: 240px;
+            background: #44e9ff;
+            -webkit-transform: rotate(-5deg); 
+        }
+    #square4 {
+            padding:40px;
+            margin:30px;
+            width: 240px;
+            height: 240px;
+            background:  #e865f1;
+            -webkit-transform: rotate(-3deg); 
+        }
+
+      
+    a:link, a:visited {   
+            text-decoration: none;
+          
+        }
+    
+        
+      
+        
+      
+
+      
+ 
+         
